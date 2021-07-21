@@ -1,0 +1,19 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Gödel's Incompleteness Theorem}
+\author{Sarita Kanwar }
+\date{July 2021}
+
+\begin{document}
+
+\maketitle 
+\paragraph{Gödel's incompleteness theorems are two theorems of mathematical logic that are concerned with the limits of provability in formal axiomatic theories. The first incompleteness theorem states that no consistent system of axioms whose theorems can be listed by an effective procedure (i.e., an algorithm) is capable of proving all truths about the arithmetic of natural numbers.}
+
+\paragraph{Formal systems: completeness, consistency, and effective axiomatization - The incompleteness theorems apply to formal systems that are of sufficient complexity to express the basic arithmetic of the natural numbers and which are consistent, and effectively axiomatized, these concepts being detailed below.Completeness: A set of axioms is (syntactically, or negation-) complete if, for any statement in the axioms' language, that statement or its negation is provable from the axioms.}
+
+\paragraph{Gödel's first incompleteness theorem first appeared as "Theorem VI" in Gödel's 1931 paper "On Formally Undecidable Propositions of Principia Mathematica and Related Systems I".
+The unprovable statement GF referred to by the theorem is often referred to as "the Gödel sentence" for the system F. The proof constructs a particular Gödel sentence for the system F, but there are infinitely many statements in the language of the system that share the same properties, such as the conjunction of the Gödel sentence and any logically valid sentence.}
+
+\paragraph{Second incompleteness theorem For each formal system F containing basic arithmetic, it is possible to canonically define a formula Cons(F) expressing the consistency of F. This formula expresses the property that "there does not exist a natural number coding a formal derivation within the system F whose conclusion is a syntactic contradiction."}
+\end{document}

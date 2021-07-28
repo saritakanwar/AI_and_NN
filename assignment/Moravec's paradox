@@ -1,0 +1,28 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Moravec's Paradox}
+\author{Sarita Kanwar}
+\date{July 2021}
+
+\begin{document}
+
+\maketitle
+
+\paragraph{}Moravec's paradox is the observation by artificial intelligence and robotics researchers that, contrary to traditional assumptions, reasoning requires very little computation, but sensorimotor skills require enormous computational resources.
+
+\paragraph{}All human skills are implemented biologically, using machinery designed by the process of natural selection. We should expect the difficulty of reverse-engineering any human skill to be roughly proportional to the amount of time that skill has been evolving in animals.
+
+Therefore, we should expect skills that appear effortless to be difficult to reverse-engineer, but skills that require effort may not necessarily be difficult to engineer at all.
+
+Some examples of skills that have been evolving for millions of years: recognizing a face, moving around in space, judging people's motivations, catching a ball, recognizing a voice, setting appropriate goals, paying attention to things that are interesting; anything to do with perception, attention, visualization, motor skills, social skills and so on.
+
+\paragraph{}Historical influence on artificial intelligence In the early days of artificial intelligence research, leading researchers often predicted that they would be able to create thinking machines in just a few decades (see history of artificial intelligence).
+
+The fact that they had solved problems like logic and algebra was irrelevant, because these problems are extremely easy for machines to solve.
+
+Rodney Brooks explains that, according to early AI research, intelligence was "best characterized as the things that highly educated male scientists found challenging", such as chess, symbolic integration, proving mathematical theorems and solving complicated word algebra problems.
+
+The main lesson of thirty-five years of AI research is that the hard problems are easy and the easy problems are hard.
+
+\end{document}

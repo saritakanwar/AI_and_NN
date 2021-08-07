@@ -1,1 +1,1 @@
-# AI_and_NN
+# Artificial Intelligence And Neural Networks

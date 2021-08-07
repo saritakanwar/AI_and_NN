@@ -1,0 +1,24 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{AI in Agriculture}
+\author{Sarita Kanwar}
+\date{August 2021}
+
+\begin{document}
+
+\maketitle
+Factors such as climate change, population growth and food security concerns have propelled the industry into seeking more innovative approaches to protecting and improving crop yield. As a result, AI is steadily emerging as part of the industry’s technological evolution.The most popular applications of AI in agriculture appear to fall into three major categories:
+
+\item Agricultural Robots – Companies are developing and programming autonomous robots to handle essential agricultural tasks such as harvesting crops at a higher volume and faster pace than human laborers.   
+\item Crop and Soil Monitoring – Companies are leveraging computer vision and deep-learning algorithms to process data captured by drones and/or software-based technology to monitor crop and soil health.
+\item Predictive Analytics – Machine learning models are being developed to track and predict various environmental impacts on crop yield such as weather changes.
+\item Blue River Technology – Weed Control
+\par The ability to control weeds is a top priority for farmers and an ongoing challenge as herbicide resistance becomes more commonplace.Blue River Technology has developed a robot called See & Spray which reportedly leverages computer vision to monitor and precisely spray weeds on cotton plants.
+\item Harvest CROO Robotics 
+\par Automation is also emerging in an effort to help address challenges in the labor force.It claims that its robot can harvest 8 acres in a single day and replace 30 human laborers.The farm claims that the robot spans “over six beds of plants” and carries “16 individual picking robots.” 
+\item Crop and Soil Health Monitoring 
+\item PEAT – Machine Vision for Diagnosing Pests / Soil Defects 
+\par Deforestation and degradation of soil quality remain significant threats to food security and have a negative impact on the the economy.
+
+\end{document}
